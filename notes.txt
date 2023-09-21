@@ -1,0 +1,6 @@
+Pasos
+- Instalar node
+- Utilizando VSCode
+
+1- Dentro de una carpeta abrir terminal y correr el comando npx create-react-app seguido del nombre de la aplicación.
+2- Moverse a la carpeta que se crea.
